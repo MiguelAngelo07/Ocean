@@ -1,0 +1,6 @@
+#Frameworks = workbenchs
+#Big Data = utilizado principalmente em IA
+#Library = Arquivos de comando, Importados para seu python 
+#Scripting: Automation
+#Data Science = 
+#IDE = VScode, Pycharm, Google colab, Thonny, StackOverflow
